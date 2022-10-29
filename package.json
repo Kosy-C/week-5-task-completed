@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/decadevs/week-5-node-sq012-Kosy-C.git",
   "author": "Kosy-C <kosychinweuba@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "html-metadata-parser": "^2.0.4"
+  }
 }
